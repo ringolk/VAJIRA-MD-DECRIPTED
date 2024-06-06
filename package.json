@@ -1,9 +1,9 @@
 {
-"name": "VAJIRA-MD",    
+"name": "𝙈𝙍 𝘿𝙀𝙎𝙎𝘼",    
 "version": "2.0.6",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
-"stop": "pm2 stop VAJIRA-MD",
+"stop": "pm2 stop 𝘋𝘌𝘚𝘚𝘈-MD",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
